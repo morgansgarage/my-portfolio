@@ -1,2 +1,3 @@
-# my-portfolio
-This is my professional portfolio
+# Scott Morgan's Portfolio
+
+This is my professional.  It uses AWS and ReactJS
