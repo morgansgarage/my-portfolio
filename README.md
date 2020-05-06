@@ -7,3 +7,7 @@ This is my professional.  It uses AWS and ReactJS
 Brew
 Git and github
 SSH
+HTML
+CSS
+Font awesome
+Google Fonts
